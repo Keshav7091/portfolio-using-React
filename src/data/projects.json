@@ -1,26 +1,31 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Blog Site",
+    "imageSrc": "projects/project-1.png",
+    "description": "This Project created using Python and Django Web Framwork.",
+    "skills": ["Python", "Django", "SQLite"],
+    "source": "https://github.com/Keshav7091/Django-blog-website"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Invoice Generator",
+    "imageSrc": "projects/project-2.png",
+    "description": "This Project created using Python and Django Web Framwork.",
+    "skills": ["Python", "Django", "SQLite"]
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Calculator",
+    "imageSrc": "projects/project-3.png",
+    "description": "This is a calculator app create using React JS.",
+    "skills": ["HTML", "CSS", "JS", "React"],
+    "demo": "https://orbit-cal.vercel.app/",
+    "source": "https://github.com/Keshav7091/orbit-cal"
+  },
+  {
+    "title": "TO-DO List",
+    "imageSrc": "projects/project-4.png",
+    "description": "This is a TO-DO List app create using React JS.",
+    "skills": ["HTML", "CSS", "JS", "React"],
+    "demo": "https://todo-list-keshav.vercel.app/",
+    "source": "https://github.com/Keshav7091/todo-list"
   }
 ]
